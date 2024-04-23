@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Mapping Manifestos"
+authors:
+  - family-names: Enwright
+    given-names: Catherine
+abstract: "Jekyll site for the Mapping Manifestos Project @ Boston College"
+version: 0.0.1
+date-released: "2024-4-9"
+license: "CC-BY-NC-SA-4.0"
+repository-code: "https://github.com/BCDigSchol/mapping-manifestos"
