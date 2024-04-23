@@ -13,20 +13,20 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 nav-menu:
   - title: Home
     link: index
-  - title: Exhibit
-    link: exhibit
-  - title: Commentary
-    link: commentary
-  - title: Bibliography
-    link: bibliography
+  - title: What Are Manifestos
+    link: manifestos
+  - title: Artistic Movements
+    link: movements
+  - title: Future Directions
+    link: future-directions
 
 # sets whether a search bar appears on the site header
 # NOTE, you will have to increase the site of teh $site-header-height in _sass/theme-settings.scss to to see the search bar
 search-bar: false
 
 hide-footer: false # set to true to hide the footer
-footer-message: Analyzing The Rime of the Ancient Mariner with Coleridge and Doré | CC BY-NC License
-footer-submessage:  By Catherine Enwright, with the Digital Scholarship Group, Boston College
+footer-message: Mapping Manifestos | CC BY-NC License
+footer-submessage:  By UNCERTAIN, with the Digital Scholarship Group, Boston College
 footer-submessage-link: https://ds.bc.edu
 
 # google-analytics: // if you want to use Google analytics, include your ID here
