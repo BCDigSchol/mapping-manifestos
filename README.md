@@ -2,7 +2,7 @@
 
 *Jekyll website for the Mapping Manifestos Project @ [Boston College](https://bc.edu)*
 
-By UNCERTAIN
+By Catherine Enwright
 
 ## About
 
