@@ -1,6 +1,6 @@
 # change the followings to match your Github username and repo name
-# baseurl: "/wip-mapping-manifestos" # the name of your github repo
-# url: "https://BCDigSchol.github.io" # the url of your github pages
+baseurl: "/mapping-manifestos" # the name of your github repo
+url: "https://BCDigSchol.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
 title: "Mapping Manifestos"
